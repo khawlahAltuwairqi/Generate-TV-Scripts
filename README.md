@@ -1,2 +1,2 @@
 # Generate-TV-Scripts
-This project generate the TV scripts using Recurrent Neural Networks
+This project generates the TV scripts using Recurrent Neural Networks
